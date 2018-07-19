@@ -34,10 +34,10 @@ var myOtherShirt = {
 // #6 Loop through this object and change all keys that start with the letter s to have a value of 's'
 
 var snake = {
-	sliters: 'sideways',
-	eats: 'rodents',
-	says: 'ssss',
-	smells: 'heat',
+	slithers: 'side-to-side',
+	eats: 'ice cream',
+	says: 'hiss',
+	smells: 'blood',
 	runs: 'legless'
 };
 
