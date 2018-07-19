@@ -16,14 +16,14 @@ var iLove = 'I love';
 
 // #4 Change my shirt color to pink using dot notation
 var myShirt = {
-	type: 'polo',
-	color: 'red'
+	type: 'tee',
+	color: 'blue'
 };
 
 // Change my shirt type to spandex using square bracket notation
 var myOtherShirt = {
-	type: 'polo',
-	color: 'red'
+	type: 'suit',
+	color: 'yellow'
 };
 
 // #5 Create an object that tracks a count of animals in a zoo.  Call it 'zoo'
